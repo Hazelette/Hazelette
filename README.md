@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS @ SJSU<br>Technical Interests: Web development, Machine Learning, Cloud Computing, Cybersecurity<br>Other interests: Healthcare, Finance<br><br>Technical Skills: Java, C, C++, Python, HTML, CSS, JS, Excel, 
+CS @ SJSU<br> Frontend Intern & Student Researcher @ SRI International (former) <br> Web Development Intern @ Alterea Inc. (current) Technical Interests: Web development, Machine Learning, Cloud Computing, Cybersecurity<br>Other interests: Healthcare, Finance<br><br>Technical Skills: Java, C, C++, Python, HTML, CSS, JS, Excel, 
 
 
 # 💻 Tech Stack:
